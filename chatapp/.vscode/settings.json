@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Users\\Jai K\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda3 (64-bit)\\Anaconda Prompt (anaconda3)",
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+
+    "[typescript]": {
+        "editor.formatOnSave": true
+    }
+
+}
